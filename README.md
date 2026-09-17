@@ -241,4 +241,4 @@ This project provides practical experience with:
 
 ## Author
 
-## saumya gupta
+## Saumya Gupta
