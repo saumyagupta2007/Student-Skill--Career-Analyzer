@@ -1,0 +1,26 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# Java compiled files
+*.class
+out/
+target/
+
+# Build files
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
